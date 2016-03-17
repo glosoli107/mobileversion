@@ -3,7 +3,7 @@ lock '3.4.0'
 
 
 set :application, 'TestApp'
-set :repo_url, 'git@github.com:glosoli107/testapp.git'
+set :repo_url, 'git@github.com:glosoli107/mobileversion.git'
 
 set :passenger_restart_with_touch, true
 
