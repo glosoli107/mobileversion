@@ -39,7 +39,7 @@ gem 'sshkit'
 group :development do
   gem 'capistrano', '~> 3.4.0'
   gem 'capistrano-rails', '~> 1.1.6'
-  gem 'capistrano-rvm'
+  gem 'capistrano-rbenv'
   gem 'capistrano-bundler', '~> 1.1.4'
   gem 'capistrano-passenger'
 end
